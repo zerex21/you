@@ -1,0 +1,33 @@
+Let me introduce myself. I am Oleg Rybak, a junior frontend developer, 
+studying at the Belarusian State University of Informatics and Radioelectronics 
+and am currently studying the RSSchool interface course. 
+My life is very diverse. I think I have a great character.
+I always try to help people.
+I like to laugh and joke. I have a sense of humor.
+I am hardworking and ambitious. I set high goals for myself and work hard to achieve them.
+I'm sociable, so I have a lot of friends. I appreciate the honesty, frankness and politeness of people.
+I don't like it when people are rude and aggressive.
+In my free time, I like to watch movies, TV series, read a book or physical activity.
+
+I started my acquaintance with programming by studying Java.
+But after a certain period of time, my friend suggested that I try web programming.
+He recommended Rs shcool. In 2020, I graduated from the courses JS from the IT Academ . 
+And now I have signed up for this set at Rs school.
+Learning here requires patience and perseverance, 
+as well as the ability to clearly ask questions in order to find answers to them.
+Here they give out difficult but not impossible tasks.I liked the Museum task the most.
+That task was divided into three parts, each of which required different skills.
+Each of which required very little effort, but in the end I coped with all of them.
+I like the competitive spirit, but still I do not blame other students on the cross check, 
+and even sometimes I put higher. Before signing up for the course,
+ I started studying ReacеJs on the It-kamasutra channel. 
+There, the learning process is also built on self-study, only they don't give out tasks there
+I got to the point of studying React/Redux.In the future, 
+I will to study this topic more deeply and then switch to Full-stack.
+
+With the help of these courses, I plan to find a job where I can develop as a web programmer.
+I believe that web programming nowadays occupies an important place in programming, 
+because the user who visits the site is not interested in the data that is stored on the server,
+ but he likes how the site is made and how he can interact with this site.
+Therefore, the profession of a web programmer is very popular nowadays, 
+and I believe that I will be able to work in this profession.
